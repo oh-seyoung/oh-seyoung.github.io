@@ -2570,8 +2570,7 @@ input, select, textarea {
 
 		.image img {
 			border-radius: 0.25em;
-			display: block;
-		}
+			display: block;		}
 
 		.image.left, .image.right {
 			max-width: 40%;
@@ -3907,3 +3906,7 @@ input, select, textarea {
 			}
 
 		}
+
+.kaist-image{
+	background-color: white;
+}
